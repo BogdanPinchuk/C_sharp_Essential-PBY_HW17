@@ -163,7 +163,7 @@ namespace LesApp0
 
             }
             #endregion
-
+            
             Console.Write("\n" + new string('*', 80));
 
             #region тип string
